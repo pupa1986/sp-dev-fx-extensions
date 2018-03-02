@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SPFx Export Items - Deployment of custom action." Description="Deploys a custom action with ClientSideComponentId association" Id="eb9b934b-03cb-489f-884f-b73b5fc1b06a" Version="1.0.0.1" Scope="Web" Hidden="FALSE"></Feature>
